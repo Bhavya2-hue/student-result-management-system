@@ -1,9 +1,6 @@
 # student-result-management-system
 A desktop-based Student Result Management System built with Python, Tkinter, and SQLite.
 # Student Result Management System
-
-A desktop application built using Python, Tkinter, and SQLite for managing student results efficiently.
-
 ## Features
 - Admin login system
 - Add and manage student records
